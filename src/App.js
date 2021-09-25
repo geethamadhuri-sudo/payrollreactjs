@@ -4,6 +4,7 @@ import {
   Route,
   Switch
 } from 'react-router-dom';
+import * as ROUTES from './consants/routes'
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
       <Router>
         <Suspense fallback={<div>Loading...</div>}>
         <Switch >
-          <Route path='/login' component={Login}/>
+          <Route path={ROUTES.LOGIN} component={Login}/>
         </Switch>
        </Suspense>
       </Router>

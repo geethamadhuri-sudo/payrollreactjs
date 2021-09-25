@@ -1,0 +1,32 @@
+.btn{
+    margin-top: 10px;
+}
+
+.margins{
+    margin-top:3px;
+    position: relative;
+    left: 30px;
+    border: 1px solid #73AD21;
+    height:auto;
+    width:auto;
+    padding:17px;
+    border-radius: 4px;
+}
+
+.label{
+    color:blue;
+
+}
+
+.account{
+    position:relative;
+    left:99px;
+    bottom:32px;
+
+}
+
+.hyper{
+    position:absolute;
+    left:173px;
+    top:1px;
+}
