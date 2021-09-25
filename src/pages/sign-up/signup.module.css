@@ -1,0 +1,23 @@
+.bordercss{
+max-height: auto;
+max-width:auto;
+padding:20px;
+margin-top: 10px;
+border : 1px solid blue
+
+}
+
+.mattercss{
+    position:relative;
+    left:99px;
+    bottom:32px;
+}
+
+.buttonmove{
+    position: relative;
+    top: 31px;
+}
+.labelmove{
+    position: relative;
+    top: 13px;
+}

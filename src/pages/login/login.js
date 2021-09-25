@@ -1,6 +1,6 @@
 import styles from './login.module.css';
 import {Link} from 'react-router-dom';
-import * as ROUTES from '../consants/routes';
+import * as ROUTES from '../../consants/routes';
 
 export default function Login(){
 return(
